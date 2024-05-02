@@ -1,0 +1,2 @@
+# localsetup
+python set up
